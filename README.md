@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### nama saya Muhammad iqbal 
+ ![Test foto](susu.jpg)
 <!--
 **muhammadiqbal34gg/muhammadiqbal34gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
